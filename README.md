@@ -9,4 +9,5 @@ To exit the program, simply type `exit`.
 
 ### Which animals are there?
 
+Currently, you can find these animals:
 Camel 🐪, Lion 🦁, Deer 🦌, Goose 🦢, Bat 🦇 and Rabbit 🐇.
