@@ -4,5 +4,9 @@ You can find the working source file [here](https://github.com/Futureblur/zookee
 
 ### What can you do with it?
 
-Once you run the program, you can enter numbers ranging from 0 to 5 to view the animal in the zoo.<br>
+Once you run the program, you can enter numbers ranging from **0** to **5** to view the animal in the zoo.<br>
 To exit the program, simply type `exit`.
+
+### Which animals are there?
+
+Camel 🐪, Lion 🦁, Deer 🦌, Goose 🦢, Bat 🦇 and Rabbit 🐇.
